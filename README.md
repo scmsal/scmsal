@@ -1,7 +1,25 @@
-- 👋 Hi, I’m Stephanie
-- 👀 I’m interested in launching my career as a frontend-focused full stack software developer. Right now I'm working on additional features for my latest personal project, a gardening web app.
-- 🌱 I have just completed the Professional Certificate in Full Stack Software Development offered by the McCombs School of Business (University of Texas at Austin) in collaboration with Great Learning. I'm switching career tracks from language services (interpretation, translation, and editing). My coding journey started in the fall of 2022.
-- 💞️ I’m looking to collaborate on web application and API projects to keep learning in practice and to be helpful while I'm at it. 
-- 📫 You can reach me at scm.salifu@gmail.com.
-- ⚡ Fun fact: I like gardening, knitting, logic problems, music (listening and creating), experimenting, and searching for answers about all sorts of topics.
+# 👋 Hi, I’m Stephanie  
+
+I’m a frontend-focused **Full Stack Software Developer** with a background in language services (interpretation, translation, and editing). My coding journey began in Fall 2022, and I recently completed the **Professional Certificate in Full Stack Software Development** from the University of Texas at Austin, McCombs School of Business (in collaboration with Great Learning).  
+
+---
+
+## 🌱 What I’m Working On
+- Building out additional features for my **gardening web app** (MERN stack)  
+- Expanding my skills in frontend frameworks, internationalization (i18n), and accessibility  
+
+---
+
+## 💡 Interests
+- Web application and API development  
+- Creating intuitive, user-friendly and eventually multilingual interfaces  
+- Exploring how tech can facilitate access to information and services
+
+---
+
+## 🤝 Collaboration
+I’m open to collaborating on **web applications and API projects** — both to keep sharpening my skills and to contribute where I can be helpful.  
+
+
+
 

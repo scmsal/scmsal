@@ -5,9 +5,8 @@ I’m a frontend-focused **Full Stack Software Developer** with a background in 
 ---
 
 ## 🌱 What I’m Working On
-- Building out additional features for my **gardening web app** (MERN stack)  
 - Expanding my skills in frontend frameworks, internationalization (i18n), and accessibility
-- Specifically, I'm learning Next.js, TypeScript, and PostgreSQL as well as DSA problem-solving patterns
+- Specifically, I'm learning Next.js, TypeScript, and PostgreSQL while building a new app
 
 ---
 

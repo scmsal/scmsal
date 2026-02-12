@@ -5,14 +5,14 @@ I’m a frontend-focused **Full Stack Software Developer** with a background in 
 ---
 
 ## 🌱 What I’m Working On
-- Expanding my skills in frontend frameworks, internationalization (i18n), and accessibility
+- Expanding my skills in frontend frameworks, data modeling, and accessibility
 - Specifically, I'm learning Next.js, TypeScript, and PostgreSQL while building a new app
 
 ---
 
 ## 💡 Interests
 - Web application and API development  
-- Creating intuitive, user-friendly and eventually multilingual interfaces  
+- Creating intuitive, user-friendly, and responsive interfaces  
 - Exploring how tech can facilitate access to information and services
 
 ---
